@@ -63,7 +63,7 @@ termux-setup-storage
 apt update && apt upgrade && pkg update && pkg upgrade && pkg install bash && pkg install libwebp && pkg install git -y && pkg install nodejs -y && pkg install ffmpeg -y && pkg install wget && pkg install imagemagick -y && pkg install yarn
 ```
 ```bash
-git clone https://github.com/z-bot1/NovaBot-MD && cd NovaBot-MD && yarn && npm install
+git clone https://github.com/z-bot1/z-bot1 && cd NovaBot-MD && yarn && npm install
 ```
 ```bash
 npm start
